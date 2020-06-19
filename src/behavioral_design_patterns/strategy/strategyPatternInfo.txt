@@ -1,0 +1,18 @@
+Definition =>
+
+The Strategy Pattern defines a family of algorithms,
+encapsulates each one, and makes them interchangeable.
+Strategy lets the algorithm vary independently from
+client that use it.
+
+
+Points learned :
+1 => Take what varies and "encapsulate" it so it won't
+    affect the rest of your code.
+
+    The result is fewer unintended consequences from
+    code changes and more flexibility in your system.
+
+
+2 => Favor composition over inheritance.
+     Has-A can be better than Is-A
