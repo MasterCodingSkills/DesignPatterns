@@ -1,4 +1,4 @@
-package behavioral_design_patterns.strategy.SimUDuck_Example;
+package behavioral_design_patterns.strategy.SimUDuck_Example.solutionCode;
 
 public abstract  class Duck {
     private FlyBehavior flyBehavior;

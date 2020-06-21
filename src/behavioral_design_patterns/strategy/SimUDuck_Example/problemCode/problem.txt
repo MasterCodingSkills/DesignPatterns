@@ -1,0 +1,15 @@
+1 => what if we want to add fly behaviour to ducks.
+
+    if we add fly() method in Duck class than some
+    ducks like rubber ducks and wooden ducks which
+    should not fly also starts flaying.
+
+    And
+
+    if we add fly() method in every class separately
+    than we are over-programming, and we are not
+    getting benefits of inheritance.
+
+
+2 => what if we want to change fly() behavior
+     dynamically.
