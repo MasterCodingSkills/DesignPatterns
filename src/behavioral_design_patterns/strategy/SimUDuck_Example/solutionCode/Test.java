@@ -3,8 +3,6 @@ package behavioral_design_patterns.strategy.SimUDuck_Example.solutionCode;
 public class Test {
     public static void main(String[] args) {
         Duck mallardDuck = new MallardDuck();
-        mallardDuck.setFlyBehavior(new FlyWithWings());
-        mallardDuck.setQuackBehavior(new Quack());
 
         mallardDuck.display();
         mallardDuck.swim();
