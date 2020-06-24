@@ -1,4 +1,4 @@
-package behavioral_design_patterns.strategy.SimUDuck_Example.solutionCode;
+package behavioral_design_patterns.strategy.example1_duckgame_problem_solution.solutionCode;
 
 public class FlyNoWay implements FlyBehavior{
     @Override

@@ -1,4 +1,4 @@
-package behavioral_design_patterns.strategy.SimUDuck_Example.problemCode;
+package behavioral_design_patterns.strategy.example1_duckgame_problem_solution.problemCode;
 
 public class RubberDuck extends Duck{
     @Override
