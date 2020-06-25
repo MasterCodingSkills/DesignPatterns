@@ -1,4 +1,4 @@
-package behavioral_design_patterns.observer.weather_station;
+package behavioral_design_patterns.observer.weatherstation;
 
 public class CurrentConditionDisplay implements Observer,DisplayElement{
     private Double temprature;

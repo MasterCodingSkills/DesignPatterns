@@ -1,4 +1,4 @@
-package behavioral_design_patterns.observer.weather_station;
+package behavioral_design_patterns.observer.weatherstation;
 
 public class WeatherStation {
     public static void main(String[] args) {
